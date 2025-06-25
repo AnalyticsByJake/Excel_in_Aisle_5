@@ -4,7 +4,7 @@
 Sometimes, less really is more — especially in Excel. In this project, I dive into a lean yet telling dataset simulating Walmart customer behavior. With limited fields and a dash of creativity, I assembled a full suite of analysis, KPI summaries, and dashboards to extract insight from the everyday. The goal? Show how even smaller datasets can pack a big punch when paired with the right structure and logic.
 
 <p align="center">
-  <img src="images/image_1_walmart_logo.jpeg" width=300/>
+  <img src="images/image_1_walmart_logo.jpeg" width=450/>
 </p>
 
 The limited fields in the original dataset challenged me to get creative in connecting variables to highlight relationships and connections between them. At the same time, I was able to really explore the details in more depth than datasets that might be overwhelming in terms of variables. From cleaning and analysis to visualization, this project hits the core elements of EDA and business intelligence — all in Excel.
