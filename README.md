@@ -10,7 +10,7 @@ Sometimes, less really is more — especially in Excel. In this project, I dive 
 The limited fields in the original dataset challenged me to get creative in connecting variables to highlight relationships and connections between them. At the same time, I was able to really explore the details in more depth than datasets that might be overwhelming in terms of variables. From cleaning and analysis to visualization, this project hits the core elements of EDA and business intelligence — all in Excel.
 
 <p align="center">
-  <img src="images/image_2_cat_sales.jpg", width=600/>
+  <img src="images/image_2_cat_sales.jpg", width=750/>
 </p>
 
 The data for this project was obtained from [this Kaggle dataset](http://kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset) and then cleaned, organized, analyzed and visualized.
@@ -53,7 +53,7 @@ The dataset is available in its cleaned as well as original form.
 The dataset was fairly clean from the start, but still needed formatting tweaks — from standardizing column types to engineering a few new features (like age brackets).Here’s a snapshot of how those changes looked in action.
 
 <p align="center">
-  <img src="images/image_3_data_glance.jpg" width=900/>
+  <img src="images/image_3_data_glance.jpg" width=1000/>
 </p>
 
 These changes enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI analysis, and executive summaries.
@@ -101,7 +101,7 @@ From here, I delved into the actual "Product Performance," using metrics to make
 The final dashboard worked on adding depth and precision to the conclusions drawn from the ones mentioned above. Each dashboard speaks to a different stakeholder — but the overlap in insights reveals how collaboration across departments can drive better business decisions. This phenomenon would frequently lead to further collaboration and cooperation, a key staple of many strong businesses. The primary concerns of this dashboard are total sales by gender over time, first time versus repeat customer sales over time, the frequency of payment method by age group, the average product rating by age group and the customer distribution by age. A section of that dashboard is visible here.
 
 <p align="center">
-  <img src="images/image_8_customers_db.jpg" width=700/>
+  <img src="images/image_8_customers_db.jpg" width=850/>
 </p>
 
 Ultimately, this is a project that proves the best preparation is oftentimes collaboration. While the actual dataset was relatively small on variables, a bit of hard work -- and quite a bit of coffee -- can help bring those business interests together. 
