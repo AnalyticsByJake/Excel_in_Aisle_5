@@ -11,7 +11,7 @@ Sometimes, less really is more — especially in Excel. In this project, I dive 
 The limited fields in the original dataset challenged me to get creative in connecting variables to highlight relationships and connections between them. At the same time, I was able to really explore the details in more depth than datasets that might be overwhelming in terms of variables. From cleaning and analysis to visualization, this project hits the core elements of EDA and business intelligence — all in Excel.
 
 <p align="center">
-  <img src="images/image_2_cat_sales.jpg", width=750/>
+  <img src="images/image_2_cat_sale.jpg", width=750/>
 </p>
 
 The data for this project was obtained from [this Kaggle dataset](http://kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset) and then cleaned, organized, analyzed and visualized.
@@ -65,7 +65,7 @@ These changes enhanced the analytical resolution of the dataset, making it ready
 This project proves that small datasets can still yield high-value insights — when paired with sharp questions and targeted KPIs. In compiling questions for analysis, I pinpointed areas that would be vital in determining the effectiveness of KPIs. This process included determining three areas of interest that would later be compiled into dashboards. The business questions can be found under the "Analysis" worksheet, and is color-coded for easier navigation (see below). For instance, below is a chart and graph breaking down sales by age bracket.
 
 <p align="center">
-  <img src="images/image_4_sales_age.jpg" width=750/>
+  <img src="images/image_4_sale_age.jpg" width=750/>
 </p>
 
 The main areas of concern are listed as follows:
@@ -77,7 +77,7 @@ The main areas of concern are listed as follows:
 I aimed to provide concentrated bits of information that could then be digested by specific departments, each having their own role to play in the enterprise. While sales might be related to general management and business, products would concern those handling logistics or vendors while the demographic breakdown would be helpful for targeted advertisements or markets to explore. One notable limitation: the dataset’s synthetic nature sometimes caused overly uniform distributions — but that only made uncovering nuance more rewarding. One such example: the average order value by category, month over month (see below).
 
 <p align="center">
-  <img src="images/image_5_cat_aov.jpg" width=800/>
+  <img src="images/image_5_cats_aov.jpg" width=800/>
 </p>
 
 From here, I worked on converting my findings into clear and informative dashboards for the relevant audiences.
