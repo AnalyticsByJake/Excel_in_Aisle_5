@@ -8,7 +8,7 @@ Sometimes, less really is more — especially in Excel. In this project, I dive 
   <img src="images/image_1_walmart_logo.jpeg" width=550/>
 </p>
 
-The limited fields in the original dataset challenged me to get creative in connecting variables to highlight relationships and connections between them. At the same time, I was able to really explore the details in more depth than datasets that might be overwhelming in terms of variables. From cleaning and analysis to visualization, this project hits the core elements of EDA and business intelligence — all in Excel.
+The limited fields in the original dataset challenged me to get innovative in connecting variables to highlight relationships. At the same time, I was able to really explore the details in more depth than datasets that might have an overwhelming number of variables. From cleaning and analysis to visualization, this project hits the core elements of EDA and business intelligence — all in Excel.
 
 <p align="center">
   <img src="images/image_2_cat_sale.jpg", width=650/>
@@ -51,61 +51,61 @@ The dataset is available in its cleaned as well as original form.
 
 ## III. Refining the Data
 
-The dataset was fairly clean from the start, but still needed formatting tweaks — from standardizing column types to engineering a few new features (like age brackets).Here’s a snapshot of how those changes looked in action.
+The dataset was fairly clean from the start, but still needed formatting tweaks — from standardizing column types to engineering a few new features (like age brackets). Here’s a snapshot of how those changes looked in action.
 
 <p align="center">
   <img src="images/image_3_data_glance.jpg" width=1000/>
 </p>
 
-These changes enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI analysis, and executive summaries.
+These adjustments enhanced the analytical resolution of the dataset, making it ready for pivot table manipulation, KPI analysis, and executive summaries.
 
 
 ## IV. Pinpointing Data Relevance
 
-This project proves that small datasets can still yield high-value insights — when paired with sharp questions and targeted KPIs. In compiling questions for analysis, I pinpointed areas that would be vital in determining the effectiveness of KPIs. This process included determining three areas of interest that would later be compiled into dashboards. The business questions can be found under the "Analysis" worksheet, and is color-coded for easier navigation (see below). For instance, below is a chart and graph breaking down sales by age bracket.
+This project proves that small datasets can still yield high-value insights — when paired with sharp questions and targeted KPIs. In compiling questions for analysis, I pinpointed areas that would be vital to determining the effectiveness of KPIs. This process included isolating three areas of interest that would later be compiled into dashboards. The business questions can be found under the "Analysis" worksheet, and is color-coded for easier navigation. For instance, below is a chart and graph breaking down sales by age bracket (🔵 for sales).
 
 <p align="center">
   <img src="images/image_4_sale_age.jpg" width=700/>
 </p>
 
-The main areas of concern are listed as follows:
+The main avenues of investigation are as follows:
 
 - 🔵 Sales Trends and Insights 
 - 🟠 Product Insights  
 - 🟢 Customer Demographic Insights 
 
-I aimed to provide concentrated bits of information that could then be digested by specific departments, each having their own role to play in the enterprise. While sales might be related to general management and business, products would concern those handling logistics or vendors while the demographic breakdown would be helpful for targeted advertisements or markets to explore. One notable limitation: the dataset’s synthetic nature sometimes caused overly uniform distributions — but that only made uncovering nuance more rewarding. One such example: the average order value by category, month over month (see below).
+I aimed to provide concentrated bits of information that could then be digested by specific departments, each having their own role to play in the enterprise. While sales might be related to general management and business, products would concern those handling logistics or vendors while the demographic breakdown would be helpful for targeted advertisements or untapped markets to explore. One notable limitation: the dataset’s synthetic nature sometimes caused overly uniform distributions — but that only made uncovering nuances more rewarding. One such example is the average order value by category, month over month, as displayed here.
 
 <p align="center">
   <img src="images/image_5_cats_aov.jpg" width=500/>
 </p>
 
-From here, I worked on converting my findings into clear and informative dashboards for the relevant audiences.
+Once I made it through this process, I then worked on converting these findings into clear and informative dashboards for relevant audiences.
 
 
 ## V. Dashboards: Who, What, When and Where
 
-Great visuals mean little without the right audience in mind. Here, I built dashboards aimed at three distinct business functions: sales, product performance, and customer insights.
+Great visuals mean little without the right audience in mind. To accomplish just this, I built dashboards directed at three distinct business functions: sales, product performance, and customer insights.
 
-I start by addressing "Sales Performance" in the dataset, both overall and by pinpointing pertinent details to make sense of sales over time. The main focus in this dashboard are monthly sales, sales by age bracket, sales by category, cities with the highest sales and how first time and repeat customers compared to one another in sales month by month. Part of that dashboard can be seen here, and the full dashboard is available in the Excel file.
+I start by addressing "Sales Performance" in the dataset, both overall and by identifying pertinent details to make sense of sales over time. The main focus in this dashboard is monthly sales, sales by age bracket, sales by category, cities with the highest sales and how first time and repeat customers compared to one another in sales month over month. Part of that dashboard can be seen here, and the full dashboard is available in the Excel file.
 
 <p align="center">
   <img src="images/image_6_sales_db.jpg" width=800/>
 </p>
 
-From here, I delved into the actual "Product Performance," using metrics to make more informative graphs that demonstrate how products and categories fared against one another. As is the theme with this project, I aimed to make more complex and detailed charts and graphs that tell a larger story. In this regard, my areas of focus were the average order value by product type, average order amount of categories month by month, the highest rated product types and, building on that, the distribution of payment methods for these top product types. The dashboard for this can be seen below.
+From here, I delved into the actual "Product Performance," using metrics to make more informative graphs that demonstrate how products and categories fared against one another. As is the theme with this project, I designed more complex and detailed charts and graphs that tell a larger story. In this regard, my areas of focus were the average order value by product type, average order amount of categories month over month, the highest rated product types and, building on that, the distribution of payment methods for these top product types. The dashboard for this can be seen below.
 
 <p align="center">
   <img src="images/image_7_products_db.jpg" width=800/>
 </p>
 
-The final dashboard worked on adding depth and precision to the conclusions drawn from the ones mentioned above. Each dashboard speaks to a different stakeholder — but the overlap in insights reveals how collaboration across departments can drive better business decisions. This phenomenon would frequently lead to further collaboration and cooperation, a key staple of many strong businesses. The primary concerns of this dashboard are total sales by gender over time, first time versus repeat customer sales over time, the frequency of payment method by age group, the average product rating by age group and the customer distribution by age. A section of that dashboard is visible here.
+The final dashboard worked on adding depth and precision to my conclusions. Each dashboard speaks to a different stakeholder — but the overlap in insights reveals how collaboration across departments can drive better business decisions. This phenomenon would frequently lead to further collaboration and cooperation, a key staple of many strong enterprises. The primary analyses for this dashboard are total sales by gender over time, first time versus repeat customer sales over time, the frequency of payment method by age group, the average product rating by age group and the customer distribution by age. A section of that dashboard is visible here.
 
 <p align="center">
   <img src="images/image_8_customers_db.jpg" width=850/>
 </p>
 
-Ultimately, this is a project that proves the best preparation is oftentimes collaboration. While the actual dataset was relatively small on variables, a bit of hard work -- and quite a bit of coffee -- can help bring those business interests together. 
+Ultimately, this is a project that proves the best preparation is oftentimes collaboration. While the actual dataset was relatively small on variables, a bit of hard work -- and quite a bit of coffee -- can help align interests within an organization. 
 
 
 ## VI. Tools Used
