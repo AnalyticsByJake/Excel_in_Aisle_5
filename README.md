@@ -65,7 +65,7 @@ These changes enhanced the analytical resolution of the dataset, making it ready
 This project proves that small datasets can still yield high-value insights — when paired with sharp questions and targeted KPIs. In compiling questions for analysis, I pinpointed areas that would be vital in determining the effectiveness of KPIs. This process included determining three areas of interest that would later be compiled into dashboards. The business questions can be found under the "Analysis" worksheet, and is color-coded for easier navigation (see below). For instance, below is a chart and graph breaking down sales by age bracket.
 
 <p align="center">
-  <img src="images/image_4_sale_age.jpg" width=550/>
+  <img src="images/image_4_sale_age.jpg" width=700/>
 </p>
 
 The main areas of concern are listed as follows:
