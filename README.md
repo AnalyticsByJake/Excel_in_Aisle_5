@@ -124,9 +124,11 @@ The other key element -- and one of the reasons Excel was chosen for this projec
 
 [Linkedin](www.linkedin.com/in/jacob-maze-8a4a0772)
 
-[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
+[Personal Website](https://analyticsbyjake.github.io/abj/)
 
 [GitHub](https://github.com/AnalyticsByJake)
 
-[Website](https://analyticsbyjake.github.io/abj/)
+[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
+
+[Academia.edu](https://aauni.academia.edu/JacobMaze)
 
