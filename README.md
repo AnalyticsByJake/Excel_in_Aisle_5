@@ -1,6 +1,6 @@
-#<p align="center">
-# Excel in Aisle 5: Walmart Analytics on a Budget<p align="center">
-</p>
+<h1 align="center" style="font-size: 2em;">
+  Excel in Aisle 5: Walmart Analytics on a Budget
+</h1>
 
 Sometimes, less really is more — especially in Excel. In this project, I dive into a lean yet telling dataset simulating Walmart customer behavior. With limited fields and a dash of creativity, I assembled a full suite of analysis, KPI summaries, and dashboards to extract insight from the everyday. The goal? Show how even smaller datasets can pack a big punch when paired with the right structure and logic.
 
